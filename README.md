@@ -24,6 +24,6 @@ A simple Python project that fetches real-time weather updates for any city usin
 3. Create a .env file and add your API Key:
    ```ini
    WEATHER_API_KEY=your_api_key_here
-4.Run it:
+4. Run it:
 ```bash
 python weatherupdate.py
